@@ -1,0 +1,12 @@
+/home/saradan/Projects/JsonConvert/JsonConvert/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/saradan/Projects/JsonConvert/JsonConvert/bin/Debug/JsonConvert.exe.mdb
+/home/saradan/Projects/JsonConvert/JsonConvert/bin/Debug/JsonConvert.exe
+/home/saradan/Projects/JsonConvert/JsonConvert/obj/x86/Debug/JsonConvert.exe
+/home/saradan/Projects/JsonConvert/JsonConvert/obj/x86/Debug/JsonConvert.exe.mdb
+/home/saradan/Projects/JsonConvert/JsonConvert/bin/Debug/Newtonsoft.Json.dll
+/home/saradan/CSharp/JsonConvert/JsonConvert/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/saradan/CSharp/JsonConvert/JsonConvert/bin/Debug/JsonConvert.exe.mdb
+/home/saradan/CSharp/JsonConvert/JsonConvert/bin/Debug/JsonConvert.exe
+/home/saradan/CSharp/JsonConvert/JsonConvert/obj/x86/Debug/JsonConvert.exe
+/home/saradan/CSharp/JsonConvert/JsonConvert/obj/x86/Debug/JsonConvert.exe.mdb
+/home/saradan/CSharp/JsonConvert/JsonConvert/bin/Debug/Newtonsoft.Json.dll

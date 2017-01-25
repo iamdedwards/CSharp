@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BC560C5B-E491-4D30-ABB5-751019AE51B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonConvert/JsonConvert.cs">
+    <Files>
+      <File FileName="JsonConvert/JsonConvert.cs" Line="86" Column="5" />
+      <File FileName="JsonConvert/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JsonConvert PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
